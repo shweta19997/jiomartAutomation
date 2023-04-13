@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-13T13:42:07 IST" name="Default suite" finished-at="2023-04-13T13:42:41 IST" duration-ms="33281">
+    <groups>
+    </groups>
+    <test started-at="2023-04-13T13:42:07 IST" name="Default test" finished-at="2023-04-13T13:42:41 IST" duration-ms="33281">
+      <class name="testCase.testCases">
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.testCases@25fb8912]" started-at="2023-04-13T13:42:07 IST" name="BeforeMethod" finished-at="2023-04-13T13:42:19 IST" duration-ms="11649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="Ahompagepincode()[pri:0, instance:testCase.testCases@25fb8912]" started-at="2023-04-13T13:42:19 IST" name="Ahompagepincode" finished-at="2023-04-13T13:42:25 IST" duration-ms="6402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ahompagepincode -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.testCases@25fb8912]" started-at="2023-04-13T13:42:25 IST" name="AfterMethod" finished-at="2023-04-13T13:42:26 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.testCases@25fb8912]" started-at="2023-04-13T13:42:26 IST" name="BeforeMethod" finished-at="2023-04-13T13:42:34 IST" duration-ms="8344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="BFashion()[pri:0, instance:testCase.testCases@25fb8912]" started-at="2023-04-13T13:42:34 IST" name="BFashion" finished-at="2023-04-13T13:42:40 IST" duration-ms="6626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BFashion -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.testCases@25fb8912]" started-at="2023-04-13T13:42:40 IST" name="AfterMethod" finished-at="2023-04-13T13:42:41 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- testCase.testCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
